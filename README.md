@@ -34,3 +34,8 @@ This project demonstrates real-world backend development practices.
 
 ## 🏗 Project Architecture
 
+controller → service → repository → database
+↓
+dto (Request / Response)
+↓
+exception handling
